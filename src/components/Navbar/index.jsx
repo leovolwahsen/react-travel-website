@@ -23,7 +23,7 @@ const removeNavbar = () => {
           <a href="#" className="logo flex">
             <h1>
               <MdOutlineTravelExplore className="icon" />
-              Verreisen
+              Verreisen.de
             </h1>
           </a>
         </div>
